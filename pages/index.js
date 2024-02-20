@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>My first site ig</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/site_favicon.ico" />
       </Head>
 
       <main>
