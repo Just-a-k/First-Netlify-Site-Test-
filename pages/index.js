@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Test!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Go to your Github page (Just-a-k) and go to the "First-Netlify-Site-Test, then <code>pages/index.js</code> to edit this content.
         </p>
       </main>
 
