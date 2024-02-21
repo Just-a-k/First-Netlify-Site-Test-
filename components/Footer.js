@@ -5,6 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <img src="/Site_Footer (1).svg" alt="Site Logo" className={styles.logo} />
+        <a href="https://71256test.com"></a>
       </footer>
     </>
   )
