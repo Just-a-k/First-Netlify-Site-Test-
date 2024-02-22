@@ -16,7 +16,7 @@ export default function Home() {
           Go to your Github page (Just-a-k) and go to the "First-Netlify-Site-Test", then <code>pages/index.js</code> to edit this content.
         </p>
         <p className='second weblink' />
-          <a href="71256test.netlify.com/test">Second Page</a>
+          <a href="71256test.netlify.app/test">Second Page</a>
       </main>
 
       <Footer />
