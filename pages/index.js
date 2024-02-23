@@ -17,6 +17,9 @@ export default function Home() {
         </p>
       </main>
 
+      <p className='second weblink' >
+          <a href="Second Page.js">Second Page</a>
+          </p>
       <Footer />
     </div>
   )
